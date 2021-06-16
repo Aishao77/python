@@ -18,5 +18,15 @@
 
 #布尔值 ：   python中的布尔代表的是真和假，  与机械绘图中的布尔概念不一致
 
-#
+#布尔值只有 True   和  False
+#布尔值可以用   and   or    not    运算
+
+
+#and   表示和     只有左右两端都是True是输出结果才是True   否则都是False
+#or    表示或     只要左右两端有一边是True   输出结果就是True
+#not   表示否     表示反义     如果变量   a = True     则    not a = False
+
+#布尔值用在判断语句中，用来判断条件
+
+
 
